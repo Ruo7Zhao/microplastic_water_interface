@@ -43,5 +43,5 @@ trajectories.
 All notebooks are intended to be run from within their respective directories.
 They are written for Python 3 and rely on standard scientific Python packages
 (e.g., NumPy, MDTraj/MDAnalysis, Matplotlib). Please see the 
-environment file "conda.txt" for details on the software dependencies and installation
+environment file "environment.yml" for details on the software dependencies and installation
 instructions.
