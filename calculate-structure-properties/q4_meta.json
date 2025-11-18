@@ -1,0 +1,10 @@
+{
+  "format": "q4_vs_WCI_v1",
+  "bin_width_A": 0.19999999999999996,
+  "dist_min_A": -2.0,
+  "dist_max_A": 9.999999999999996,
+  "units": {
+    "distance": "\u00c5",
+    "q4": "dimensionless"
+  }
+}
